@@ -2,7 +2,7 @@
 
 require('RealFollowersPlus.php');
 
-$username = "USERNAMEIGMU";
+$username = "ndes71";
 
 $a = new RealFollowersPlus($username);
 
